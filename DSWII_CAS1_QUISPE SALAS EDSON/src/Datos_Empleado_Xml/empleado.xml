@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleado>
+    <apellido>perez</apellido>
+    <direccion>lima</direccion>
+    <idempleado>101</idempleado>
+    <nombre>miguel</nombre>
+    <observaciones>empleado nuevo</observaciones>
+    <sueldo>1500.0</sueldo>
+    <telefono>3814945</telefono>
+</empleado>
